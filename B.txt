@@ -1,6 +1,14 @@
+<<<<<<< Updated upstream
 Fixed it...
 
 
+=======
+Feature 1
+//Some login code with OTP
+//75%
+
+Sanjay welcome to the wrld.
+>>>>>>> Stashed changes
 wekcines fssshshsb sj
 sdasds
 sdsd
